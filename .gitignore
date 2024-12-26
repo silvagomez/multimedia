@@ -1,0 +1,13 @@
+.DS_Store
+*.swp
+*.swo
+*.out
+*.gch
+*.o
+*.bk
+*.a
+.idea
+.vscode
+*.dSYM
+*.vim
+*.log
